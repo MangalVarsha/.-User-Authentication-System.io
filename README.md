@@ -5,7 +5,6 @@ Hello everyone, In this project, we are going to create MERN Stack App with Logi
 
 # Working with the Project
 Download this project from above link. Create two configaration files into the project. First in the client and second in the server.
-
 In the Client Folder create .env file and put this code inside it.
 .env
 REACT_APP_SERVER_DOMAIN='<server_domain>' # example 'http://localhost:8080'
